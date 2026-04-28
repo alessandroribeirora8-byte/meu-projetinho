@@ -45,6 +45,11 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+div#resultado {
+        margin-top: 20px;
+        font-size: 18px;
+        color: #333;
+}
 #erro {
         margin-top: 10px;
 }
