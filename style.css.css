@@ -52,4 +52,7 @@ div#resultado {
 }
 #erro {
         margin-top: 10px;
-}
+}       color::after {
+    content:none;
+    
+};
