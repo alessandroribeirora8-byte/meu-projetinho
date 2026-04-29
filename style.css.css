@@ -48,7 +48,7 @@ button {
 div#resultado {
         margin-top: 20px;
         font-size: 18px;
-        color: #333;
+        color: red;
 }
 #erro {
         margin-top: 10px;
